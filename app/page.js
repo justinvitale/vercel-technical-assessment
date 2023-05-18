@@ -105,7 +105,7 @@ export default function QuestionOne() {
         >
           <h2>
             <span>8.</span> The customer from question 7 replies to your response with the below:<br></br>
-            <em>&quot;I&apos;sm so frustrated. I&apos;sve been trying to make this work for hours and I just can&apos;st figure it out. It must be a platform issue so why don&apos;st you just fix it for me instead of asking me questions.&quot;</em><br></br>
+            <em>&quot;I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. It must be a platform issue so why don&apos;t you just fix it for me instead of asking me questions.&quot;</em><br></br>
             Please write a follow-up reply to the customer. <span>-&gt;</span>
           </h2>
         </Link>
