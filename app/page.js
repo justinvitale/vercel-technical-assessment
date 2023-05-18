@@ -93,7 +93,7 @@ export default function QuestionOne() {
           rel="noopener noreferrer"
         >
           <h2>
-            <span>7.</span> Imagine a customer writes in requesting help with a build issue on a framework or technology that you&apos;sve not seen before. How would you go about troubleshooting this and what questions would you ask the customer to understand the situation better? <span>-&gt;</span>
+            <span>7.</span> Imagine a customer writes in requesting help with a build issue on a framework or technology that you&apos;ve not seen before. How would you go about troubleshooting this and what questions would you ask the customer to understand the situation better? <span>-&gt;</span>
           </h2>
         </Link>
 
