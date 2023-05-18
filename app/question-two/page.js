@@ -45,6 +45,7 @@ export default function QuestionTwo() {
             <br></br><br></br>
             Rather than attempting to capture every individual DOM mutation which was not currently possible for FullStory, I proposed tracking the high-level user interactions that were triggering these changes by using FS.event. The React application was already maintaining a state for the user&apos;s interactions and the status of the recommendation system. I recommended to the customer that their developers send custom events using FS.event every time this state changed, essentially tagging significant interactions that led to changes in the recommendation section. For example, if a user viewed a particular product, that action would be sent as a custom event to FullStory as:
           </p>
+          <br></br>
           <pre style={{ fontSize: '1rem' }}>{`FS.event('Product Viewed', {
     productId: '123',
     productName: 'Sample Product'
