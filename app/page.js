@@ -80,7 +80,7 @@ export default function QuestionOne() {
           rel="noopener noreferrer"
         >
           <h2>
-            <span>6.</span> How could we improve or alter this familiarisation exercise? <span>-&gt;</span>
+            <span>6.</span> How could we improve or alter this familiarization exercise? <span>-&gt;</span>
           </h2>
         </Link>
 

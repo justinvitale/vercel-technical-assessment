@@ -39,7 +39,7 @@ export default function QuestionFour() {
           <p>
             Serverless Functions are great for performing operations that require any server-side execution, such as tasks where you&apos;re interacting with a database or an external API. As an example, if you were fetching data from a third-party service, a Serverless Function would allow you to do this securely without exposing sensitive information on the client-side. Additionally, Serverless Functions on Vercel auto-scale, which make them a great fit for variable workloads.
             <br></br><br></br>
-            On the other hand, because Edge Functions are executed closer to the user, the geographical proximity would result in improved response times for users. Example use cases for Edge Functions would include personalising content for a user, or making decisions based on their location.
+            On the other hand, because Edge Functions are executed closer to the user, the geographical proximity would result in improved response times for users. Example use cases for Edge Functions would include personalizing content for a user, or making decisions based on their location.
             <br></br><br></br>
             While Edge Middleware is also executed at the edge, these functions execute before a request is processed on a site. This allows you to modify the response based on the request. Edge Middleware excels at tasks such as authentication, redirects, and URL rewrites.
             <br></br><br></br>
